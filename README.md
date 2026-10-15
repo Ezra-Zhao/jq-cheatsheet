@@ -46,6 +46,19 @@ echo '{"name":"api-server","port":8080}' | jq -r '.name'  # -> api-server（去�
 
 发现 filter 写错了、缺了常用场景、翻译不到位——欢迎提 Pull Request。新增条目请保持统一格式（功能 / 命令 / 标签），**提交前请用真实 jq 跑一遍验证**。
 
+## 📚 更多速查表
+
+同一作者的其他速查表，同样有中/西/葡三语版本：
+
+- [FFmpeg 命令速查表](https://github.com/Ezra-Zhao/ffmpeg-cheatsheet) — 28 条音视频处理命令
+- [Git 实战速查表](https://github.com/Ezra-Zhao/git-cheatsheet) — 30 条日常+救命命令
+- [Docker 命令速查表](https://github.com/Ezra-Zhao/docker-cheatsheet) — 28 条容器命令
+- [curl 命令速查表](https://github.com/Ezra-Zhao/curl-cheatsheet) — 29 条 API 调试命令
+- [正则表达式速查表](https://github.com/Ezra-Zhao/regex-cheatsheet) — 30 条实战正则模式
+- [终端神器速查表](https://github.com/Ezra-Zhao/terminal-superpowers-cheatsheet) — 14 个终端效率工具
+- [Adobe 免费替代速查表](https://github.com/Ezra-Zhao/adobe-free-alternatives-cheatsheet) — 16 个 Adobe 免费替代品
+- [退订省钱速查表](https://github.com/Ezra-Zhao/desubscribe-cheatsheet) — 10 组退订替代，年省约 $1,260
+
 ## License
 
 MIT © 2026 Guangyi Zhao，详见 [LICENSE](LICENSE)。
