@@ -1,5 +1,7 @@
 # jq 命令速查表 · jq Cheatsheet
 
+[![Stars](https://img.shields.io/github/stars/Ezra-Zhao/jq-cheatsheet?style=social)](https://github.com/Ezra-Zhao/jq-cheatsheet/stargazers) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) ![Languages](https://img.shields.io/badge/languages-3-blue)
+
 > 🌍 [Español](README.es.md) · [Português](README.pt.md)
 
 一份**一页纸**的 jq 速查表：30 条全部真实跑通过的 filter（jq 1.7 实测），每个条目只讲三件事——**它是干什么的、一条能直接复制粘贴的命令、适用场景标签**。不编造函数，不拼凑语法。
